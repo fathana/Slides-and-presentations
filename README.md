@@ -1,4 +1,4 @@
-# Slides-and-presentations
+# Slides and presentations
 
  - Presentations:
     - [Unsupervised State Representations RL](https://docs.google.com/presentation/d/1jE3r4E5VgIYDTI6clZiaNXRtcGX2l90SRXHDRCzm1-A/edit?usp=sharing)
